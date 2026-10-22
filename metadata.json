@@ -1,0 +1,6 @@
+{
+  "name": "VoiceTV AI",
+  "description": "An intelligent voice-controlled Smart TV agent simulator for hackathon testing with channel guide, audio controls, voice assistant, and command processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
